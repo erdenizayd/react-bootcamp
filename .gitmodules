@@ -1,0 +1,6 @@
+[submodule "react-bootcamp-route"]
+	path = react-bootcamp-route
+	url = https://github.com/erdenizayd/react-bootcamp-route
+[submodule "react-bootcamp-app"]
+	path = react-bootcamp-app
+	url = https://github.com/erdenizayd/react-bootcamp-app
